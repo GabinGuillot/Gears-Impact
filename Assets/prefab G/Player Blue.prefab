@@ -222,11 +222,11 @@ MonoBehaviour:
   horizontalAxisName: Horizontal
   verticalAxis: 1
   verticalAxisName: Vertical
-  impulseInputName: Horizontal
+  impulseInputName: Fire2
   depthAxis: 2
   resetVelocityOnImpulse: 1
   impulseForce: 50
-  useCooldown: 1
+  useCooldown: 0
   cooldown: 3
   minimalHeightToImpulse: 0
   heightAxis: 1
@@ -249,7 +249,7 @@ MonoBehaviour:
   animator: {fileID: 0}
   dashTriggerName: dash
   displayDebugInfo: 0
-  impulseIndex: 0
+  impulseIndex: 3
   horizontalIndex: 0
   verticalIndex: 0
 --- !u!1 &4129206763554972848
